@@ -1,1 +1,1 @@
-# studentManagementSwing
+Student management in Java using Swing
